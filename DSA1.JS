@@ -1,3 +1,6 @@
+import psp from "prompt-sync-plus";
+
+const prompt = psp();
 // Sum of Digits of a number
 /* let rem = 0,
   sum = 0,
